@@ -1,5 +1,5 @@
 # Claw Code
-
+[简体中文](./README_zh-CN.md) | [English](./README.md)
 <p align="center">
   <a href="https://github.com/ultraworkers/claw-code">ultraworkers/claw-code</a>
   ·
